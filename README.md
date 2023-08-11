@@ -5,3 +5,6 @@ Day 2 assignment on position
 
 ## Assignment 2
 ![image](https://github.com/Saranganrajendran365/codekaro_css2/assets/141739948/97530812-786f-4638-b451-4969776f3aa9)
+
+## Assignment 3
+![image](https://github.com/Saranganrajendran365/codekaro_css2/assets/141739948/143837a9-1d76-40a3-b8e3-5cd46ed3e320)
